@@ -4,7 +4,7 @@
 
 ## Find me around the web
 
-- Writting for [It's FOSS](itsfoss.com), [It's FOSS en español](es.itsfoss.com), and [UnrealBlog](https://unrealblog.xyz/).
+- Writting for [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), and [UnrealBlog](https://unrealblog.xyz/).
 - My personal thoughts are in [UnrealBlog](unrealblog.xyz).
 - On [Twitter](https://twitter.com/marcocarmonaga) and [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/).
 - Subscribing to [my weekly newsletter](https://www.getrevue.co/profile/marcocarmonaga).
