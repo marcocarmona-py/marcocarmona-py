@@ -11,7 +11,7 @@
 
 ### A little about me
 
-I am a physicist and data science developer passionate about science, technology, human growth and philosophy. My main working tools include Bash, Python, MicroPython and lots and lots of mathematics. I have worked on projects involving deep research methodology mainly based on numerical analysis and processing.
+I am a physicist and data scientist passionate about science, technology, human growth, and philosophy. My main working tools include Bash, Python, MicroPython and lots and lots of mathematics. I have worked on projects involving deep research methodology based on numerical analysis and processing. 
 
 - 👨‍🔬 I am currently conducting research on the structure and electronic properties of MoB2.
 - 💻 At the moment I am learning R.
