@@ -1,32 +1,32 @@
-## ¡Hola! 👋 Mi nombre es Marco
+## Hello! 👋 My name is Marco
 
 ![](https://pbs.twimg.com/profile_banners/1347006160331747330/1650943639/1500x500)
 
-### Me encuentras en internet
+### You can find me on the internet
 
-- Escribiendo para [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), y [Mi Blog Personal](https://marcocarmonaga.github.io/Blog/).
-- Conectando y compartiendo en [Twitter](https://twitter.com/marcocarmonaga).
-- Subiendo código en [GitHub Gist](https://gist.github.com/marcocarmonaga).
-- Y puedes conocer más sobre lo que yo hago en [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/).
+- Writing for [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), and [My Personal Blog](https://marcocarmonaga.github.io/Blog/).
+- Connecting and sharing on [Twitter](https://twitter.com/marcocarmonaga).
+- Uploading code to [GitHub Gist](https://gist.github.com/marcocarmonaga).
+- And you can learn more about what I do at [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/).
 
-### Un poco sobre mí
+### A little about me
 
-Soy físico y desarrollador en ciencia de datos apasionado por la ciencia, la tecnología, el crecimiento humano y la filosofía. Entre mis principales herramientas de trabajo se encuentra Bash, Python, Micropython y muchas, muchas matemáticas. He trabajo en proyectos que conllevan metodología de investigación profunda principalmente basada en el análisis y procesamiento numérico.
+I am a physicist and data science developer passionate about science, technology, human growth and philosophy. My main working tools include Bash, Python, MicroPython and lots and lots of mathematics. I have worked on projects involving deep research methodology mainly based on numerical analysis and processing.
 
-- 👨‍🔬 Actualmente me encuentro desarrollando una investigación acerca de la estructura y propiedades electrónicas del MoB2.
-- 💻 En estos momentos me encuentro aprendiendo R.
-- 💬 Mis lenguajes meta a aprender son Julia y C/C++.
-- ✍️ Mi pasatiempo favorito se encuentra en la escritura.
+- 👨‍🔬 I am currently conducting research on the structure and electronic properties of MoB2.
+- 💻 At the moment I am learning R.
+- 💬 My target languages to learn are Julia and C/C++.
+- ✍️ My favorite hobby is in writing.
 
-### Proyectos
+### Projects
 
-Algunos de mis proyectos relacionados con la ciencia de datos quedan enlistados enseguida:
+Some of my projects related to data science are listed below:
 
-- [Análisis de la frecuencia cardiaca máxima](https://github.com/marcocarmonaga/Analisis_de_la_frecuencia_cardiaca_maxima)
-- [Análisis de datos sobre el tema Número de visitantes Datatur en el municipio de Puebla](https://github.com/marcocarmonaga/Analisis_en_el_Numero_de_Visitantes_Datatur)
-- [Propiedades estructurales y electrónicas de MoB2: Un estudio de primeros principios](https://github.com/marcocarmonaga/MoB_2-Study-Properties_Quantum_expresso)
+- [Maximum heart rate analysis.](https://github.com/marcocarmonaga/Analisis_de_la_frecuencia_cardiaca_maxima)
+- [Data analysis on the subject Number of Datatur visitors in the municipality of Puebla.](https://github.com/marcocarmonaga/Analisis_en_el_Numero_de_Visitantes_Datatur)
+- [Structural and electronic properties of MoB2: A first-principles study.](https://github.com/marcocarmonaga/MoB_2-Study-Properties_Quantum_expresso)
 
-### Algunas librerías y tecnologías que utilizo
+### Some libraries and technologies I use
 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
