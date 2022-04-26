@@ -7,7 +7,7 @@
 - Writing for [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), and [My Personal Blog](https://marcocarmonaga.github.io/Blog/).
 - Connecting and sharing on [Twitter](https://twitter.com/marcocarmonaga).
 - Uploading code to [GitHub Gist](https://gist.github.com/marcocarmonaga).
-- And you can learn more about what I do at [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/).
+- And you can learn more about what I do at [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/) or in [My Main Website](https://sites.google.com/viep.com.mx/marcocarmonaga).
 
 ### A little about me
 
