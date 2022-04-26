@@ -1,44 +1,50 @@
-# Hi there 👋, I'm Marco
+---
+layout: page
+title: Acerca
+permalink: /about/
+---
+## ¡Hola! 👋 Mi nombre es Marco
 
 ![](https://pbs.twimg.com/profile_banners/1347006160331747330/1650943639/1500x500)
 
-## Find me around the web
+### Me encuentras en internet
 
-- Writting for [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), and [UnrealBlog](https://unrealblog.xyz/).
-- My personal thoughts are in [UnrealBlog](unrealblog.xyz).
-- On [Twitter](https://twitter.com/marcocarmonaga) and [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/).
-- Subscribing to [my weekly newsletter](https://www.getrevue.co/profile/marcocarmonaga).
+- Escribiendo para [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), y [Mi Blog Personal](https://marcocarmonaga.github.io/Blog/).
+- Conectando y compartiendo en [Twitter](https://twitter.com/marcocarmonaga).
+- Subiendo código en [GitHub Gist](https://gist.github.com/marcocarmonaga).
+- Y puedes conocer más sobre lo que yo hago en [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/).
 
-## A little about me
+### Un poco sobre mí
 
-I am student of Applied Physics and Artificial Intelligence at "Benemérita Universidad Autónoma de Puebla" and "Platzi", respectively; committed to the development and improvement of the society, seeking contributions in the fields of science and technology, motivated and hopeful for a future where people are critical and aware of their freedom.
+Soy físico y desarrollador en ciencia de datos apasionado por la ciencia, la tecnología, el crecimiento humano y la filosofía. Entre mis principales herramientas de trabajo se encuentra Bash, Python, Micropython y muchas, muchas matemáticas. He trabajo en proyectos que conllevan metodología de investigación profunda principalmente basada en el análisis y procesamiento numérico.
 
-- 📫 You can reach me sending me an email to marcoa.carmonagalvan@viep.com.mx and I'll be answering as soon as posible. Or just follow me on Twitter as [@marcocarmonaga](https://twitter.com/marcocarmonaga). I'm open to talk!
-- 💬 To be true you can ask me about anything, but I really love and enjoy philosophical questions; if you have one, just send me a message 👆😄.
+- 👨‍🔬 Actualmente me encuentro desarrollando una investigación acerca de la estructura y propiedades electrónicas del MoB$_2$.
+- 💻 En estos momentos me encuentro aprendiendo R.
+- 💬 Mis lenguajes meta a aprender son Julia y C/C++.
+- ✍️ Mi pasatiempo favorito se encuentra en la escritura.
 
-## Some technologies I use
+### Proyectos
 
-![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+Algunos de mis proyectos relacionados con la ciencia de datos quedan enlistados enseguida:
+
+- [Análisis de la frecuencia cardiaca máxima](https://github.com/marcocarmonaga/Analisis_de_la_frecuencia_cardiaca_maxima)
+- [Análisis de datos sobre el tema Número de visitantes Datatur en el municipio de Puebla](https://github.com/marcocarmonaga/Analisis_en_el_Numero_de_Visitantes_Datatur)
+- [Propiedades estructurales y electrónicas de MoB2: Un estudio de primeros principios](https://github.com/marcocarmonaga/MoB_2-Study-Properties_Quantum_expresso)
+
+### Algunas librerías y tecnologías que utilizo
+
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-<!---
-- 🌱 I’m currently learning advanced
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
