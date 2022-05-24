@@ -15,7 +15,7 @@ I am a physicist and data scientist passionate about science, technology, human 
 
 - 👨‍🔬 I am currently conducting research on the structure and electronic properties of MoB2.
 - 💻 At the moment I am learning R.
-- 💬 My target languages to learn are Julia and C/C++.
+- 💬 My target languages to learn Julia and C/C++.
 - ✍️ My favorite hobby is in writing.
 
 ### Projects
