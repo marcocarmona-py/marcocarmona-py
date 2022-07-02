@@ -7,15 +7,15 @@
 - Writing for [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), and [My Personal Blog](https://marcocarmonaga.github.io/Blog/).
 - Connecting and sharing on [Twitter](https://twitter.com/marcocarmonaga).
 - Uploading code to [GitHub Gist](https://gist.github.com/marcocarmonaga).
-- And you can learn more about what I do at [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/) or in [My Main Website](https://sites.google.com/viep.com.mx/marcocarmonaga).
+- And you can learn more about what I do at [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/) or on [My Main Website](https://sites.google.com/viep.com.mx/marcocarmonaga).
 
 ### A little about me
 
-I am a physicist and data scientist passionate about science, technology, human growth, and philosophy. My main working tools include Bash, Python, MicroPython and lots and lots of mathematics. I have worked on projects involving deep research methodology based on numerical analysis and processing. 
+I am a physicist and data scientist passionate about science, technology, human growth, and philosophy. My main working tools include Bash, Python, PostgreSQL, and lots and lots of mathematics. I have worked on projects involving deep research methodology based on numerical analysis and processing. 
 
 - 👨‍🔬 I am currently conducting research on the structure and electronic properties of MoB2.
-- 💻 At the moment I am learning R.
-- 💬 My target languages to learn Julia and C/C++.
+- 💻 At the moment I am learning JavaScript.
+- 💬 My target languages to learn are Julia and R.
 - ✍️ My favorite hobby is in writing.
 
 ### Projects
